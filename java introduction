@@ -15,3 +15,11 @@
 3) that is why we call java as platform independent language.
 4) first, java compiler compiles the sourse code into bytecode.
 5) Every java devloper knows that bytecode will be excuted by JRE(java runtime environment).
+
+2) java component JRE:-
+
+1) JRE stands for java runtime environment.
+2) the JVM is a part of JRE.
+3) this is like JVM, platform-dependent.
+4) it plays a key role while excuting any java application.
+5) it is collection of tools that togther allow the developnent of applications provide a runtime environment.
